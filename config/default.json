@@ -1,0 +1,8 @@
+{
+  "event-app": {
+       "participantId" : "admin",
+       "participantPwd" :"adminpw",
+       "businessNetworkIdentifier" : "my-network",
+       "connectionProfile" :"hlfv1"
+    }
+}
